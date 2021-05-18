@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Intelligent Systems Program](https://www.isp.pitt.edu/ "ISP") at the University of Pittsburgh, where I previously got my Master's degree (2018-2020). I am currently working with my advisor, Dr. Richard Boyce, on using knowledge graphs, ontologies, machine reading and embedding approaches to discover and generate mechanistic hypotheses for pharmacokinetic natural product-drug interactions. 
+I'm a PhD student in the [Intelligent Systems Program](https://www.isp.pitt.edu/ "ISP") at the University of Pittsburgh, where I previously got my Master's degree (2018-2020). I am currently working with my advisor, Dr. Richard Boyce, on using knowledge graphs, ontologies, machine reading and embedding approaches to discover and generate mechanistic hypotheses for pharmacokinetic natural product-drug interactions at the [NaPDI Center](https://napdicenter.org/). 
 
-My research interests include natural language processing, data science, machine learning and biomedical informatics. I am also a member of the American Medical Informatics Association (AMIA) and the AMIA student working group (STWG), where I contribute to the STWG newsletter as the Assistant Editor.
+My research interests include natural language processing, data science, machine learning and biomedical informatics. I am also a member of the American Medical Informatics Association (AMIA) and the [AMIA student working group (STWG)](https://www.amia.org/programs/working-groups/student), where I contribute to the STWG newsletter as the Co-editor.
 
 Previously, I was a part of the University of Pittsburgh Momentum Teaming Grant (2020) to discover associations to prevent the onset of Alzheimer's disease using machine learning, knowledge graphs and large-scale electronic health records. My Master's thesis, titled 'Bayesian Network Models with Decision Tree Analysis for Management of Childhood Malaria in Malawi', was completed in April 2020 with Dr. Shyam Visweswaran, Dr. Gerald Douglas and Dr. Gregory Cooper at the Department of Biomedical Informatics (DBMI), University of Pittsburgh.
 
