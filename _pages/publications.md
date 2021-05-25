@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Taneja, S.**, Boyce, R., Reynolds, W., & Newman-Griffis, D. “Introducing Information Retrieval for Biomedical Informatics Students.” Proceedings of the Fifth Workshop on Teaching NLP, Association for Computational Linguistics, 2021, pp. 96–98. ACLWeb, [https://www.aclweb.org/anthology/2021.teachingnlp-1.16](https://www.aclweb.org/anthology/2021.teachingnlp-1.16).
+
 **Taneja, S.B.**, Douglas, G.P., Cooper, G.F., Michaels, M.G., Druzdzel, M.J., Visweswaran, S. Bayesian network models with decision tree analysis for management of childhood malaria in Malawi. BMC Med Inform Decis Mak 21, 158 (2021). [https://doi.org/10.1186/s12911-021-01514-w](https://doi.org/10.1186/s12911-021-01514-w)
 
 Hoffman BL, Colditz JB, Shensa A, Wolynn R, **Taneja SB**, Felter EM, Wolynn T, Sidani JE. #DoctorsSpeakUp: Lessons learned from a pro-vaccine Twitter event. Vaccine. 2021 May 6;39(19):2684-2691. doi: 10.1016/j.vaccine.2021.03.061.
