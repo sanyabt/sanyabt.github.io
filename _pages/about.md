@@ -17,4 +17,5 @@ Previously, I was a part of the University of Pittsburgh Momentum Teaming Grant 
 I also worked as a research assistant at the [Center for Research on Media, Technology and Health (MTH)](https://www.crmth.pitt.edu/) at the School of Medicine, University of Pittsburgh from September 2018 to February 2020, where we focused on public health research on social media related to vaping, nicotine addiction, anti-vaccination, bot detection and more. Further details under [projects](https://sanyabt.github.io/projects/).
 
 **Technical Skills:** Python, R, PostgreSQL, Scikit-learn, Keras, Pandas, Git, MySQL, Linux environment, NLTK, C++, Networkx, RDF
-**Skills and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Clinical Decision Support, Knowledge Graph, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
+
+**Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Clinical Decision Support, Knowledge Graph, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
