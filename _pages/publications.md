@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Taneja SB**, Callahan TJ, Brochhausen M, Paine MF, Kane-Gill SL, Boyce RD. Designing potential extensions from G-SRS to ChEBI to identify natural product-drug interactions. Intelligent Systems for Molecular Biology/European Conference on Computational Biology (ISMB/ECCB), 2021. [https://doi.org/10.5281/zenodo.5736386](https://doi.org/10.5281/zenodo.5736386)
+
 **Taneja, S.**, Boyce, R., Reynolds, W., & Newman-Griffis, D. “Introducing Information Retrieval for Biomedical Informatics Students.” Proceedings of the Fifth Workshop on Teaching NLP, Association for Computational Linguistics, 2021, pp. 96–98. ACLWeb, [https://www.aclweb.org/anthology/2021.teachingnlp-1.16](https://www.aclweb.org/anthology/2021.teachingnlp-1.16).
 
 **Taneja, S.B.**, Douglas, G.P., Cooper, G.F., Michaels, M.G., Druzdzel, M.J., Visweswaran, S. Bayesian network models with decision tree analysis for management of childhood malaria in Malawi. BMC Med Inform Decis Mak 21, 158 (2021). [https://doi.org/10.1186/s12911-021-01514-w](https://doi.org/10.1186/s12911-021-01514-w)
