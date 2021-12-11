@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Graph Framework to Generate Hypotheses for Natural Product-Drug Interactions"
-excerpt: "<br/><img src='/images/projects/napdi_project1.png'>"
+excerpt: "<br/><img src='/images/projects/napdi_project1.png' width='200'>"
 date: February 2021
 collection: projects
 ---
