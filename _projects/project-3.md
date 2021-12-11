@@ -1,12 +1,19 @@
 ---
-title: "Bayesian network models with decision tree analysis for management of childhood malaria in Malawi"
-excerpt: "<br/><img src='/images/projects/malaria_project3.png'>"
-date: May 2019 - April 2020
+title: "Discovery of novel associations to prevent the onset of Alzheimer's disease using electronic health records."
+excerpt: "Studies related to the Momentum Teaming Grant for discovery of novel risk factors related to late-onset Alzheimer's disease. <br/><img src='/images/projects/AD_project2.png'>"
+date: January 2020 - February 2021
 collection: projects
 ---
 
-To be updated.
+#### Case-control study
 
-**Github repository:**
-<br/>**Publication(s): Taneja, S.B.**, Douglas, G.P., Cooper, G.F., Michaels, M.G., Druzdzel, M.J., Visweswaran, S. Bayesian network models with decision tree analysis for management of childhood malaria in Malawi. BMC Med Inform Decis Mak 21, 158 (2021). [https://doi.org/10.1186/s12911-021-01514-w](https://doi.org/10.1186/s12911-021-01514-w)
-**Funding:** The research reported in this publication was supported in part by the National Library of Medicine of the National Institutes of Health under award number R01 LM012095. Additional funds were provided by the Center for Health Informatics for the Underserved, Department of Biomedical Informatics, University of Pittsburgh.
+#### Machine learning analysis
+
+#### Knowledge graph and literature-based discovery
+
+**Github repository:** 
+<br/>**Publication(s):**
+<br/>Shaaban CE, Taneja SB, Witonsky KF, Malec SA, Karim HT, Pratt S, Levine AS, Munro PW, Boyce RD, Albert SM. Does clinical data capture modifiable midlife risk factors for Alzheimer’s disease? In 2021 Alzheimer's Association International Conference; 2021 Jul 26.
+<br/>S. Malec, S. Taneja, K. Witonsky, C. Shaaban, H. Karim, A. Levine, S. Albert, P. Monro, R. Boyce. Modeling Alzheimer’s Disease by Combining Knowledge Extracted from Biomedical Literature with Biomedical Ontologies. Poster Presentation, AMIA Informatics Summit 2021; March 23, 2021.
+
+<br/>**Funding:** This research was supported by the University of Pittsburgh’s Momentum Funds.
