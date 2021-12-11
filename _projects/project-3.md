@@ -1,7 +1,7 @@
 ---
 title: "Discovery of novel associations to prevent the onset of Alzheimer's disease using electronic health records."
 excerpt: "Studies related to the Momentum Teaming Grant for discovery of novel risk factors related to late-onset Alzheimer's disease. <br/><img src='/images/projects/AD_project2.png' width='250'>"
-date: 2020
+date: 2020-02-01
 collection: projects
 ---
 

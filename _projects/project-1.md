@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Classifiers for Twitter Surveillance of Vaping"
 excerpt: "Development and comparison of machine learning classifiers for social media data related to vaping. <br/><img src='/images/projects/twitter_project1.png' width='250'>"
-date: 2018
+date: 2018-09-01
 collection: projects
 ---
 

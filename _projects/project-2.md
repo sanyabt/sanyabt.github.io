@@ -1,7 +1,7 @@
 ---
 title: "Bayesian network models with decision tree analysis for management of childhood malaria in Malawi"
 excerpt: "<br/><img src='/images/projects/malaria_project2.png' width='250'>"
-date: 2019
+date: 2019-05-01
 collection: projects
 ---
 
