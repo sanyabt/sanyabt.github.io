@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Sidani JE, Hoffman BL, Colditz JB, Melcher E, **Taneja SB**, Shensa A, Primack B, Davis E, Chu, KH. E-cigarette-related Nicotine Misinformation on Social Media. Substance Use & Misuse. In Press, 2022.
+Sidani, J.E., Hoffman, B.L., Colditz, J.B., Melcher, E., **Taneja, S.B.**, Shensa, A., Primack, B., Davis, E. and Chu, K.H., 2022. E-Cigarette-Related Nicotine Misinformation on Social Media. Substance Use & Misuse, pp.1-7. DOI: [10.1080/10826084.2022.2026963](http://dx.doi.org/10.1080/10826084.2022.2026963)
 
 **Taneja SB**, Callahan TJ, Brochhausen M, Paine MF, Kane-Gill SL, Boyce RD. Designing potential extensions from G-SRS to ChEBI to identify natural product-drug interactions. Intelligent Systems for Molecular Biology/European Conference on Computational Biology (ISMB/ECCB), 2021. [https://doi.org/10.5281/zenodo.5736386](https://doi.org/10.5281/zenodo.5736386)
 
