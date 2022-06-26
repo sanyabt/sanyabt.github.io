@@ -16,8 +16,6 @@ My Master's thesis, titled 'Bayesian Network Models with Decision Tree Analysis 
 
 Reach out if you are interested in any of the topics mentioned above! Further details under [projects](https://sanyabt.github.io/projects/).
 
-Update (March 2022): We are organizing a discussion group on Knowledge Graphs and Symbolic AI at the University of Pittsburgh in Summer 2022. Reach out (sbt12@pitt.edu) if you would like to participate, present or get more details.
-
 **Technical Skills:** Python, R, PostgreSQL, Scikit-learn, Keras, Pandas, Git, MySQL, Linux environment, NLTK, C++, Networkx, RDF
 
-**Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Clinical Decision Support, Knowledge Graph, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
+**Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Knowledge Graphs, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
