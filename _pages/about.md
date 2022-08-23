@@ -19,3 +19,5 @@ Reach out if you are interested in any of the topics mentioned above! Further de
 **Technical Skills:** Python, R, PostgreSQL, Scikit-learn, Keras, Pandas, Git, MySQL, Linux environment, NLTK, C++, Networkx, RDF
 
 **Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Knowledge Graphs, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
+
+<br><a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
