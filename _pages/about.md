@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume-1.pdf">Resume</a>
 
 I'm a PhD student in the [Intelligent Systems Program](https://www.isp.pitt.edu/ "ISP") at the University of Pittsburgh, where I previously got my Master's degree (2018-2020). I am currently applying knowledge graphs, ontologies, machine reading and embedding approaches to discover and generate mechanistic hypotheses for pharmacokinetic natural product-drug interactions in the Boyce lab (primary advisor - Dr. Richard Boyce) and at the [NaPDI Center](https://napdicenter.org/). My research interests include natural language processing, machine learning, knowledge representation, knowledge graphs and applications of these topics for biomedical discoveries and improving healthcare.
 
