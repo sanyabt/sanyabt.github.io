@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://sanyabt.github.io/files/CV.pdf)
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume-1.pdf">Resume</a>
