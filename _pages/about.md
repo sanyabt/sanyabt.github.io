@@ -21,4 +21,4 @@ Reach out if you are interested in any of the topics mentioned above! Further de
 **Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Knowledge Graphs, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Bayesian Networks
 
 <a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
-<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume-1.pdf">Resume</a>
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume.pdf">Resume</a>
