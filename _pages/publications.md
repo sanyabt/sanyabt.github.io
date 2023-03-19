@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Taneja SB**, Callahan TJ, Paine MF, Kane-Gill SL, Kilicoglu H, Joachimiak MP, Boyce RD. Developing a Knowledge Graph Framework for Pharmacokinetic Natural Product-Drug Interactions. arXiv. 2022. [10.48550/arXiv.2209.11950](https://doi.org/10.48550/arXiv.2209.11950). _(In Review)_.
+**Taneja SB**, Callahan TJ, Paine MF, Kane-Gill SL, Kilicoglu H, Joachimiak MP, Boyce RD. Developing a Knowledge Graph Framework for Pharmacokinetic Natural Product-Drug Interactions. Journal of Biomedical Informatics. 2023. [DOI: doi.org/10.1016/j.jbi.2023.104341](https://doi.org/10.1016/j.jbi.2023.104341).
 
 Malec SA, **Taneja SB**, Albert SM, Shaaban CE, Karim HT, Levine AS, Munro PW, Callahan TJ, Boyce RD. Causal feature selection using a knowledge graph combining structured knowledge from the biomedical literature and ontologies: a use case studying depression as a risk factor for Alzheimer's disease. _(In Review)_. 2022. DOI: [doi.org/10.1101/2022.07.18.500549](https://doi.org/10.1101/2022.07.18.500549). 
 
