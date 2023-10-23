@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Li X, Ndungu P, **Taneja SB**, Chapin MR, Egbert SB, Akenapalli K, Paine MF, Kane-Gill SL, Boyce RD. An evaluation of adverse drug reactions and outcomes attributed to kratom in the US Food and Drug Administration Adverse Event Reporting System (FAERS) from January 2004 through September 2021. Clin Transl Sci. 2023; 00: 1- 10. [DOI: 10.1111/cts.13505](https://doi.org/10.1111/cts.13505)
+
 **Taneja SB**, Callahan TJ, Paine MF, Kane-Gill SL, Kilicoglu H, Joachimiak MP, Boyce RD. Developing a Knowledge Graph Framework for Pharmacokinetic Natural Product-Drug Interactions. Journal of Biomedical Informatics. 2023. [DOI: doi.org/10.1016/j.jbi.2023.104341](https://doi.org/10.1016/j.jbi.2023.104341).
 
 Malec SA, **Taneja SB**, Albert SM, Shaaban CE, Karim HT, Levine AS, Munro PW, Callahan TJ, Boyce RD. Causal feature selection using a knowledge graph combining structured knowledge from the biomedical literature and ontologies: a use case studying depression as a risk factor for Alzheimer's disease. Journal of Biomedical Informatics. 2023. DOI: [doi.org/10.1016/j.jbi.2023.104368](https://doi.org/10.1016/j.jbi.2023.104368). 
