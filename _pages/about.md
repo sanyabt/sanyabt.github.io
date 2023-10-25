@@ -12,7 +12,14 @@ I'm a PhD candidate in the [Intelligent Systems Program](https://www.isp.pitt.ed
 
 In Summer 2023, I worked as a research intern at the [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/research/bionlp/Research) at the National Institutes of Health (NIH) in biomedical natural language processing with Dr. Zhiyong Lu. I am a member of the JAMIA Student Editorial Board (2022-2023). I am also a member of the American Medical Informatics Association (AMIA) and the [AMIA student working group (STWG)](https://amia.org/community/working-groups/student), where I contributed to the [STWG newsletter](https://amia.org/community/working-groups/student/student-working-group-newsletter) as the co-editor (2021-2022).
 
-<h2><a href="https://sanyabt.github.io/projects/">Research</a></h2>
+**Technical Skills:** Python, R, PostgreSQL, Scikit-learn, Keras, Pandas, Git, Linux environment, NLTK, Networkx, RDF, Neo4j, OHDSI toolkit
+
+**Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Knowledge Graphs, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Large Language Models, Bayesian Networks
+
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
+<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume.pdf">Resume</a>
+
+<h2>Research</h2>
 
 * [Knowledge Graph for Natural Product-Drug Interactions](https://sanyabt.github.io/projects/project-4/)
 Heterogeneous knowledge graph for natural product-drug interactions combining biomedical ontologies, drug databases, and scientific literature to generate mechanistic hypotheses.
@@ -28,10 +35,3 @@ University of Pittsburgh Momentum Teaming Grant to discover associations to prev
 
 * [Machine Learning Classifiers for Twitter Surveillance of Vaping]()
 I worked as a research assistant at the [Center for Research on Media, Technology and Health (MTH)](https://www.crmth.pitt.edu/) at the School of Medicine, University of Pittsburgh, where we focused on public health research on social media related to vaping, nicotine addiction, anti-vaccination, bot detection and more (2018-2020).
-
-**Technical Skills:** Python, R, PostgreSQL, Scikit-learn, Keras, Pandas, Git, MySQL, Linux environment, NLTK, C++, Networkx, RDF
-
-**Strengths and Interests:** Machine Learning, Natural Language Processing, OMOP Common Data Model, ETL of Electronic Health Records data, Knowledge Graphs, Knowledge Representation, Biomedical Ontologies, Literature-based discovery, Large Language Models, Bayesian Networks
-
-<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/CV.pdf">Academic CV</a>
-<a class="btn btn--light--outline btn--info" href="https://sanyabt.github.io/files/Resume.pdf">Resume</a>
